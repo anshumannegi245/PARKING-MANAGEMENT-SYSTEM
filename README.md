@@ -23,3 +23,4 @@ DIFFERENT TYPES OF FILES: -BASED ON ACCESS:-
 • Random (direct access) file BASED ON STORAGE:-
 • Text file
 • Binary File
+
