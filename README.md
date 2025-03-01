@@ -5,6 +5,7 @@ It includes various function programs to do the above mentioned tasks.
 Data file handling has been effectively used in the program.
 The database is a collection of interrelated data to serve multiple applications. That is database programs create files of information. So we see that files are worked with most, inside the program.
 DBMS
+
 The software required for the management of data is called as DBMS. It has 3 models
 • Relation model
 • Hierarchical model
