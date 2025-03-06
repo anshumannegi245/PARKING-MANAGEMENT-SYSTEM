@@ -138,7 +138,7 @@ def Vehicle_View():
         print("Invalid input. Please enter a valid vehicle number.")
     except mysql.connector.Error as err:
         print(f"Database error: {err}")
-
+        
 def remove():
     try:
         vid1 = int(input("Enter the vehicle number of the vehicle to be deleted: "))
